@@ -5,7 +5,7 @@ Projeto com exemplo de navegação com React-Native.
 Projeto criado no contexto da disciplina de desenvolvimento mobile.
 
 
-## Assuntos abortados
+## Assuntos abordados
 
 - React Native
 - Expo
